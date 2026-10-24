@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sentiment-app : dépôt du binôme
 
 Application fil rouge du cours *Développement et déploiement d'applications intelligentes*.
@@ -44,3 +45,6 @@ sentiment-app/
 | --- | --- | --- | --- |
 | Membre A | [Nom 1] | [@login] | |
 | Membre B | [Nom 2] | [@login] | |
+=======
+# Project_dev_app 
+>>>>>>> 98fce69846a6b17fb4478a67b83dec640bc77ecd
